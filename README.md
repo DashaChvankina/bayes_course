@@ -1,2 +1,2 @@
 # bayes_course
-Home tasks for bayecourse in CMC
+Home tasks for bayes course in CMC
